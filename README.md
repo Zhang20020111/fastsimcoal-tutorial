@@ -133,7 +133,8 @@ source ~/.bashrc
 
 **示例：两个种群分化，分化后存在持续基因流：**
 <br>
-<img src="./images/tpl_model.png" alt="迁移矩阵示意" width="50%">
+<img src="./images/tpl_model.png" alt="迁移矩阵示意" width="40%">
+<br>
 **说明**：TDIV世代前，种群1和种群2合并到一起，成为祖先群体。两个种群自分化后存在不对称的基因流，从种群1迁移到种群2的个体数为NM12，从种群2迁移到种群1的个体数为NM21。
 *注：deme编号为SFS文件中种群的顺序，即按首字母排序，第一个种群为deme0。*
 
